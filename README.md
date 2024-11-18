@@ -1,8 +1,8 @@
 # JPacman
 
 ![Build Status](https://github.com/tanaphat-time/jpacman/actions/workflows/myworkflow.yml/badge.svg)
-![Coverage](.github/badges/jacoco.svg)
-![Branches](.github/badges/branches.svg)
+![Coverage](https://github.com/tanaphat-time/jpacman/actions/workflows/myworkflow.yml/jacoco.svg)
+![Branches](https://github.com/tanaphat-time/jpacman/actions/workflows/myworkflow.yml/branches.svg)
 
 
 ## About
